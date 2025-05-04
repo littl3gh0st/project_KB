@@ -1,13 +1,14 @@
-Welcome to KB Project
-===================================
+KB Project
+==========
 
-**KB Project** created for :note: SOC L1/L2
+:note: SOC L1/L2 Knowledge Base Project
 
-Knowledge Box for SOC L1
---------
+Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intended to guide SOC analysts in handling incidents, performing investigations, and following standard operating procedures.
+
+Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Knowledge Box for SOC L1
-   :hidden:
+   :caption: Table of Contents
+
    soc
