@@ -8,5 +8,6 @@ Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intende
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
+   :hidden:
 
    soc
