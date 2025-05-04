@@ -18,6 +18,7 @@ Email-Based Detection Scenarios
 .. list-table:: 
    :header-rows: 1
    :widths: 5 10 20 20
+   :class: table
 
    * - #
      - Detection Type
