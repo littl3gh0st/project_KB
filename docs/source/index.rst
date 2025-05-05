@@ -13,3 +13,5 @@ Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intende
    soc
    waf
    apache_access
+   nginx_access
+   aws_cloudtrail
