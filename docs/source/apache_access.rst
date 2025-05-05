@@ -24,13 +24,13 @@ For traffic flowing to your web Applications.
 
 Example Log Entry (Combined Log Format):
 
-.. console::
+.. code-block:: console
 
    192.168.1.10 - - [10/Oct/2023:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 1024 "http://example.com/referer" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
 Combined Log Format:
 
-.. console::
+.. code-block:: console
 
    %h %l %u %t "%r" %>s %b "%{Referer}i" "%{User-Agent}i"
 
