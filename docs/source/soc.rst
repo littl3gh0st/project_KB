@@ -60,7 +60,6 @@ Email-Based Detection Scenarios
      - Frequent or large emails to competitor domain
      - Flag pattern, collect sample, escalate
 
-
 Data Sources Used
 -----------------
 
