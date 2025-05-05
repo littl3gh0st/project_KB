@@ -24,7 +24,7 @@ For traffic flowing to your web applications.
 
 **Example Log Entry (Combined Log Format):**
 
-::
+.. console::
 
    192.168.1.10 - - [10/Oct/2023:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 1024 "http://example.com/referer" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
