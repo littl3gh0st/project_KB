@@ -7,7 +7,7 @@ This section provides links to various log source documentation.
    :maxdepth: 3
    :caption: Log Sources:
 
-     waf
-     apache_access
-     nginx_access
-     proxy
+   waf
+   apache_access
+   nginx_access
+   proxy
