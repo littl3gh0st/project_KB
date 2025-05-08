@@ -10,5 +10,4 @@ This section provides links to various log source documentation.
   waf
   apache_access
   nginx_access
-  aws_cloudtrail
   proxy
