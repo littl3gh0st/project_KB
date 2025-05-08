@@ -91,3 +91,9 @@ Apache Access Logs are invaluable for SOC analysts in various scenarios. Below a
 
 - Proactively search for indicators of compromise (IOCs) such as unusual User-Agent strings, non-standard HTTP methods, or requests to hidden endpoints.
 - Correlate Apache logs with other data sources (e.g., firewall logs, IDS alerts) to identify advanced threats.
+
+4.6. Threat Hunting
+~~~~~~~~~~~~~~~~~~~
+
+- Proactively search for indicators of compromise (IOCs) such as unusual User-Agent strings, non-standard HTTP methods, or requests to hidden endpoints.
+- Correlate Apache logs with other data sources (e.g., firewall logs, IDS alerts) to identify advanced threats.
