@@ -11,3 +11,4 @@ This section provides links to various log source documentation.
    apache_access
    nginx_access
    proxy
+   aws_cloudtrail.rst
